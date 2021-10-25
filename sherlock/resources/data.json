@@ -2155,4 +2155,11 @@
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   }
-}
+},
+  "Sales Force ": {
+    "errorType": "status_code",
+    "url": "https://trailblazer.me/id/{}",
+    "urlMain": "trailblazer.me",
+    "username_claimed": "blue",
+    "username_unclaimed": "red"
+  }
